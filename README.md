@@ -22,10 +22,11 @@ $ python getbooks.py
 
 ### User interaction
 ```
-$ Welcome to the Book Recommedation System
-$ Do you prefer shorter books? (y/n) y
-$ Do you prefer books about cooking/biography? (yn/ny) ny
-$ Do you prefer books published within a decade? (y/n) y
+$ python getbooks.py
+Welcome to the Book Recommedation System :)
+Do you prefer shorter books? (y/n) y
+Do you prefer books about cooking/biography? (yn/ny) ny
+Do you prefer books published within a decade? (y/n) y
 ```
 
 ## Data presentation
