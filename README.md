@@ -21,10 +21,12 @@ $ python getbooks.py
 ```
 
 ### User interaction
+```
 $ Welcome to the Book Recommedation System
 $ Do you prefer shorter books? (y/n) y
 $ Do you prefer books about cooking/biography? (yn/ny) ny
 $ Do you prefer books published within a decade? (y/n) y
+```
 
 ## Data presentation
 Once the Flask application is running, a user can navigate to “gallery.html” or http://127.0.0.1:5000/ to see the recommended books
