@@ -5,7 +5,7 @@ This is a SI507 final project designed to recommend and present books to users b
 ## Data sources
 
 The project relies on:
-* [The Google Books API](https://developers.google.com/books)
+* [Google Books API](https://developers.google.com/books)
 
 ## Getting started
 
