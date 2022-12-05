@@ -31,5 +31,5 @@ Display option? (web/txt) web
 Display tree? (y/n) y
 ```
 
-## Data presentation
+### Data presentation
 Once the Flask application is running, a user can navigate to “gallery.html” or http://127.0.0.1:5000/ to see the recommended books
