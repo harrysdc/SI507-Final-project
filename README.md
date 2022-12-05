@@ -32,4 +32,4 @@ Display tree? (y/n) y
 ```
 
 ### Data presentation
-Once the Flask application is running, a user can navigate to “gallery.html” or http://127.0.0.1:5000/ to see the recommended books
+Once the Flask application is running, a user can navigate to “gallery.html” or http://127.0.0.1:5000/ to see the recommended books.
