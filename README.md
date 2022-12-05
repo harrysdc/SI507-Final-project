@@ -28,6 +28,7 @@ Do you prefer shorter books? (y/n) y
 Do you prefer books about cooking/biography? (yn/ny) ny
 Do you prefer books published within a decade? (y/n) y
 Display option? (web/txt) web
+Display tree? (y/n) y
 ```
 
 ## Data presentation
