@@ -1,6 +1,6 @@
 # Book Recommendation System
 
-This is a SI507 final project designed to recommend and present books to users based on user preference
+This is a SI507 final project designed to recommend and present books to users based on the user preferences.
 
 ## Data sources
 
